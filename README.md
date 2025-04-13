@@ -1,80 +1,83 @@
-🕹️ 2D Platformer Game (Java + Swing)
+# 🎮 2D Platformer Game (Java + Swing)
 
-A simple yet fun 2D platformer game built using Java and Swing.Dodge, sprint, and slash your way through 5 action-packed levels.Clear out all the enemies to proceed to the next level—no shortcuts, no mercy. 🔥
+A simple yet fun 2D platformer game built using Java and Swing.  
+Dodge, sprint, and slash your way through **5 action-packed levels**.  
+Clear out all the enemies to proceed to the next level—no shortcuts, no mercy. 🔥
 
-🎮 Game Features
+---
 
-Smooth 2D movement using Java's Swing library
+## 🎮 Game Features
 
-Player controls: move, jump, sprint, and attack
+- Smooth 2D movement using Java's Swing library
+- Player controls: move, jump, sprint, and attack
+- **Health bar system** to track your HP
+- **5 unique levels** with increasing difficulty
+- Progress only after **defeating all mobs** in the current level
+- Simple and clean UI with responsive gameplay
 
-Health bar system to track your HP
+---
 
-5 unique levels with increasing difficulty
+## 🕹️ Controls
 
-Progress only after defeating all mobs in the current level
+| Key/Button   | Action       |
+|--------------|--------------|
+| A            | Move Left    |
+| D            | Move Right   |
+| Space        | Jump         |
+| Right Click  | Sprint       |
+| Left Click   | Hit / Attack |
 
-Simple and clean UI with responsive gameplay
+---
 
-🕹️ Controls
+## 🚀 How to Install and Run
 
-Key/Button
+### 🛠️ Prerequisites
 
-Action
+- Java JDK 8 or higher installed
+- A code editor (e.g. IntelliJ, Eclipse, or VS Code)
+- Git (optional, but recommended)
 
-A
+### 🔄 Clone the Repository
 
-Move Left
-
-D
-
-Move Right
-
-Space
-
-Jump
-
-Right Click
-
-Sprint
-
-Left Click
-
-Hit / Attack
-
-🚀 How to Install and Run
-
-🛠️ Prerequisites
-
-Java JDK 8 or higher installed
-
-A code editor (e.g. IntelliJ, Eclipse, or VS Code)
-
-Git (optional, but recommended)
-
-🔄 Clone the Repository
-
+```bash
 git clone https://github.com/Aspect022/PlatformGame.git
 cd PlatformGame
+```
 
-
-▶️ Run the Game
+### ▶️ Run the Game
 
 You can either run the game directly via command line:
 
+```bash
 javac Main.java
 java Main
+```
 
-Or open the project in your IDE and run the Main.java file.
+Or open the project in your IDE and run the `Main.java` file.
 
-💬 Need Help?
+---
+
+## 💬 Need Help?
 
 Feel free to open an issue if you run into any problems or have suggestions to improve the game.
 
-📦 Contributing
+---
+
+## 📦 Contributing
 
 Wanna add new levels, enemies, or improve game mechanics? PRs are welcome! Just fork the repo and create a pull request.
 
-📜 License
+---
 
-This project is licensed under the MIT License. Do whatever you want with it, just don’t sue me 😄
+## 📜 License
+
+This project is licensed under the MIT License. Do whatever you want with it, just don’t sue me 😅
+
+---
+
+Let me know if you want:
+- Cool banner art for the top of the README
+- Gameplay GIFs or screenshots
+- A `.jar` file to release as a downloadable game
+
+Happy coding, boss 😎💻
