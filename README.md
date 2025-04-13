@@ -74,10 +74,3 @@ Wanna add new levels, enemies, or improve game mechanics? PRs are welcome! Just 
 This project is licensed under the MIT License. Do whatever you want with it, just don’t sue me 😅
 
 ---
-
-Let me know if you want:
-- Cool banner art for the top of the README
-- Gameplay GIFs or screenshots
-- A `.jar` file to release as a downloadable game
-
-Happy coding, boss 😎💻
